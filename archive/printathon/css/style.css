@@ -1,0 +1,128 @@
+body > div.page-wrapper > section.price-3 > h3 {
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+body > div.page-wrapper > section.header-3-sub > div.container > div > div > p > a {
+	color: #7f8c8d;
+}
+
+body > div.page-wrapper > section.header-3-sub > div.container > div > div > p > a:hover {
+	color: #16a085;
+}
+
+
+body > div.page-wrapper > section.contacts-4 {
+	/*background: #34495e url('../../startup/common-files/img/map.jpg') 50% 50% no-repeat;*/
+	background: url('../img/map.jpg');
+}
+
+#nav > div.container > div > nav > div.navbar-header > a > img {
+	padding-bottom: 10px;
+}
+
+#home {
+	padding-bottom: 80px;
+}
+
+#home > div > div > p > a {
+	color: #000000;
+}
+
+#home > div > div > p > a:hover {
+	color: #1abc9c;
+}
+
+#home > a {
+	top: 570px;
+}
+
+#home {
+	background: #F2F3F4;
+	padding-top: 0px;
+	text-align: center;
+}
+
+#home > div > div > h4 > img:nth-child(1) {
+	margin-bottom: 0px;
+}
+
+#home > div > div > h2 {
+	margin-top: 0px;
+	color: #000000;
+}
+
+#home > div > div > h4 {
+	text-align: center;
+}
+
+#home > div > div > p {
+	color: #191926 !important;
+}
+
+#home > div > div > img {
+	padding-top: 80px;
+	padding-bottom: 10px;
+}
+
+#contact {
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
+
+#team img {
+  opacity: 0.8;
+}
+
+#home > div.container > div > div > p {
+	font-size:20px;
+}
+
+#judges, #judges > div > div > h4 {
+	text-align: center;
+}
+
+#team > div > div > div:nth-child(2) > div, #team > div > div > div:nth-child(3) > div {
+	padding-bottom: 50px;
+}
+
+#faq {
+	background-color: #f2f3f4;
+}
+
+#about > div > div > p, #faq > div > div > div > div.description {
+	color: #7f8c8d !important;
+}
+
+body > div.page-wrapper > section.header-3-sub > div.container > div > div > p, body > div.page-wrapper > section.header-3-sub > div.container > div > div > p > a {
+	color: #191926 !important;
+}
+
+body > div.page-wrapper > section.header-3-sub > div.container > div > div > h3, #home > div.container > div > div > h1 { 
+	color: #000000 !important;
+}
+
+#zen {
+	padding-top: 17px;
+	padding-left: 50px;
+}
+
+#home {
+	background: url('../img/bg.jpg') no-repeat;
+}
+
+#home > div > div > img {
+	padding-top: 175px;
+}
+
+#home > a {
+	top: 645px;
+}
+
+#judges > div > div > div:nth-child(3) > div {
+	padding-top: 30px;
+}
+
+#sponsors > div > div > div:nth-child(2) > div.col-sm-6.center {
+	padding-top: 47px;
+}

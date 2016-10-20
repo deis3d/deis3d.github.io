@@ -1,0 +1,133 @@
+# Webalizer V2.23-05 Incremental Data - 04/19/2015 15:29:41
+2015 4 19 15 29 41
+20 20 2 4 0 0 457462 18 3 1
+1 17 17 15 19
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 3 60945 2 3 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+17 17 396517 1 15 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+17 17 396517 15
+1 1 20315 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 40630 2
+0 0 0 0
+0
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/deis3d/public_html/img/deltamaker.png
+0 1 0 43460 0 0
+/home/deis3d/public_html/printathon/img/deltamaker.png
+0 1 2 43460 0 0
+/home/deis3d/public_html/
+0 17 0 350308 3 1
+/home/deis3d/public_html/printathon/
+0 1 0 20234 0 0
+# End Of Table - urls
+# -sites- (monthly)
+129.64.198.91
+0 1 1 20315 1 1429117032
+/home/deis3d/public_html/
+129.64.222.92
+0 19 19 437147 2 1429457381
+/home/deis3d/public_html/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+129.64.222.92
+0 17 17 396517 1 1429457381
+/home/deis3d/public_html/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+deis3d
+0 20 20 457462 3 1429457381
+# End Of Table - usernames

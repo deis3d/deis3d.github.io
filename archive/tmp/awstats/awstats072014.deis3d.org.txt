@@ -1,0 +1,519 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201407 will be lost/reset.
+# Last config file used to build this data file was /home/deis3d/tmp/awstats/awstats.deis3d.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2002                
+POS_TIME 2672                
+POS_VISITOR 9136                
+POS_DAY 14005               
+POS_DOMAIN 3476                
+POS_LOGIN 3875                
+POS_ROBOT 4030                
+POS_WORMS 4390                
+POS_EMAILSENDER 4521                
+POS_EMAILRECEIVER 4664                
+POS_SESSION 14787               
+POS_SIDER 14976               
+POS_FILETYPES 4799                
+POS_DOWNLOADS 5057                
+POS_OS 5124                
+POS_BROWSER 5254                
+POS_SCREENSIZE 5830                
+POS_UNKNOWNREFERER 5904                
+POS_UNKNOWNREFERERBROWSER 6438                
+POS_ORIGIN 6889                
+POS_SEREFERRALS 7032                
+POS_PAGEREFS 7189                
+POS_SEARCHWORDS 7630                
+POS_KEYWORDS 7782                
+POS_MISC 2335                
+POS_ERRORS 7841                
+POS_CLUSTER 3731                
+POS_SIDER_404 7946                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140801022836 469 108306 8187698351257
+FirstTime 0
+LastTime 20140731195426
+LastUpdate 20140801051837 469 0 468 0 0
+TotalVisits 122                 
+TotalUnique 107                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 124                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 50 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 18363 4 12 415490
+1 4 10 408954 0 33 2091160
+2 4 43 1789215 6 32 614476
+3 3 41 1781241 4 26 678682
+4 31 155 8010914 9 55 1346770
+5 8 86 5177845 12 61 1370769
+6 16 210 8870774 5 14 358055
+7 26 272 13285889 4 35 664935
+8 34 292 13051946 6 47 1123936
+9 20 259 11623907 1 9 42053
+10 22 112 1394381 1 33 876871
+11 10 94 4725472 5 35 812704
+12 10 106 4224893 4 21 744758
+13 15 174 8096485 3 9 56737
+14 31 303 13789294 4 18 174861
+15 9 48 1862667 6 8 65828
+16 20 259 11078578 2 10 60416
+17 8 125 6953415 5 15 420934
+18 11 129 7090058 2 13 369524
+19 8 47 1825941 6 19 444592
+20 10 89 5355932 4 28 686157
+21 6 46 1862090 0 8 382975
+22 4 4 73452 5 8 42021
+23 7 47 1860847 0 1 3679
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 268 2514 114243353
+de 12 129 7662111
+nl 11 89 3633519
+gb 8 44 1366378
+in 8 121 5293946
+cn 5 24 867834
+il 4 10 408954
+se 3 21 664826
+es 1 1 18363
+ru 1 1 18363
+fr 1 1 18363
+th 0 1 16543
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 182 5939463 20140731002637 0
+no_user_agent 26 2194991 20140723060144 0
+bot[\s_+:,\.\;\/\\-] 16 328803 20140731135851 0
+crawl 14 346225 20140725055155 0
+spider 2 36726 20140731140301 0
+netcraft 1 18363 20140710113853 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+eot 39 808320 0 0
+css 516 25040492 0 0
+png 644 31794670 0 0
+ttf 24 196668 0 0
+txt 1 71 0 0
+woff 119 2046040 0 0
+html 140 2350464 0 0
+jpg 545 52619616 0 0
+js 808 19141728 0 0
+gif 120 214484 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/humans.txt 1 0 71
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 9
+winlong 96
+winxp 48
+winnt 2
+linux 161
+winvista 301
+win7 901
+macosx 1428
+winme 2
+Unknown 17
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 32
+firefox28.0 22
+msie6.0 4
+safari7.0 234
+firefox26.0 6
+safari7.0.4 42
+chrome32.0.1700.41 1
+chrome31.0.1650.63 3
+chrome36.0.1985.125 678
+chrome12.0.742.112 1
+ecatch 2
+firefox31.0 40
+iphone 84
+safari6.1.2 42
+chrome26.0.1410.65 2
+firefox3.5.8 4
+msie9.0 232
+chrome24.0.1312.52 42
+Unknown 15
+chrome34.0.1847.131 43
+safari6.1.3 84
+safari6.0 1
+msie5.5 1
+firefox30.0 157
+chrome35.0.1916.114 3
+safari6.0.5 125
+chrome35.0.1916.153 811
+firefox14.0.1 5
+chrome25.0.1364.172 2
+chrome22.0.1229.94 126
+firefox6.0 1
+firefox15.0.1 23
+safari 120
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+visionutils/0.2 20140713215848
+panscient.com 20140729144522
+Corporama_matcher_1.2 20140708214952
+Mnogosearch-3.1.21 20140724180924
+wscheck.com/1.0.0_(_http://wscheck.com/) 20140717233204
+SEOstats_2.1.0__________https://github.com/eyecatchup/SEOstats 20140717233204
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20140720031325
+A6-Indexer/1.0_(http://www.a6corp.com/a6-web-scraping-policy/) 20140707094727
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Mnogosearch-3.1.21 20140724180924
+visionutils/0.2 20140713215848
+wscheck.com/1.0.0_(_http://wscheck.com/) 20140717233204
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20140720031325
+A6-Indexer/1.0_(http://www.a6corp.com/a6-web-scraping-policy/) 20140707094727
+panscient.com 20140729144522
+Corporama_matcher_1.2 20140708214952
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 107 111
+From1 3 3
+From2 16 18
+From3 13 13
+From4 183 2811
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 16 18
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+https://www.facebook.com 4 4
+http://t.co/BVviCpIeVF 1 1
+http://decentraland.org 1 1
+http://dekvip.com 1 1
+https://www.linkedin.com 1 1
+http://lm.facebook.com/l.php 1 1
+https://www.linkedin.com 1 1
+http://l.facebook.com/l.php 1 1
+http://mawords.com/deis3d.org 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 169 4658662
+404 86 141200
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 26
+/startup/flat-ui/images/video/volume-full.png 1 -
+/ 2 -
+/robots.txt 55 -
+/user 1 -
+/admin.php 2 -
+/startup/common-files/img/content/screen@2x.png 1 -
+/startup/flat-ui/images/todo/done-2x.png 1 -
+/administrator/index.php 1 -
+/startup/flat-ui/bootstrap/css/bootstrap.css.map 3 http://deis3d.org/
+/startup/flat-ui/images/tile/ribbon.png 1 -
+/startup/flat-ui/images/todo/done.png 1 -
+/startup/flat-ui/images/tile/ribbon-2x.png 1 -
+/admin 1 -
+/people.txt 1 -
+/startup/common-files/img/map.jpg 1 -
+/administrator/ 1 -
+/startup/flat-ui/images/video/fullscreen.png 1 -
+/administrator 1 -
+/startup/flat-ui/images/login/imac-2x.png 1 -
+/blog 1 -
+/startup/flat-ui/images/login/imac.png 1 -
+/wp-login.php 3 -
+/startup/flat-ui/images/todo/todo.png 1 -
+/startup/common-files/img/header/img-3.jpg 1 -
+/startup/flat-ui/images/todo/todo-2x.png 1 -
+/startup/flat-ui/images/video/volume-off.png 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 124
+209.64.25.3 24 68 3447925 20140714044640
+66.8.159.71 18 96 1945455 20140723105804
+96.246.140.66 12 167 7939460 20140726164521
+129.64.210.161 10 133 5442208 20140730081612
+199.83.88.155 10 54 3045749 20140731082118
+128.33.81.180 7 86 4507666 20140715092343
+64.74.215.113 6 6 0 20140725191310
+5.9.49.41 6 84 5071348 20140717145549
+199.217.119.4 6 6 110178 20140717233204
+38.99.82.241 5 31 683931 20140712072638
+38.99.82.251 5 30 650063 20140712074654
+129.64.229.88 5 44 1807578 20140703111529
+38.99.82.207 5 30 650063 20140713105749
+129.64.209.74 4 44 3529991 20140730181635
+50.173.127.157 4 48 2751284 20140715113854
+198.179.71.26 4 49 2124717 20140731130818
+96.242.31.228 4 4 73452 20140729144522
+100.2.164.190 3 42 1770852 20140728141350
+69.38.228.66 3 42 2545666 20140715114531
+83.163.190.104 3 42 1770852 20140729021934
+216.82.251.228 3 42 1770852 20140731130046
+50.246.55.18 3 42 1770852 20140717062749
+208.185.52.110 3 42 1770852 20140731093911
+124.124.98.209 3 42 1770852 20140722070742
+98.142.44.67 3 42 2545666 20140722075845
+66.128.5.138 2 40 1762878 20140703133945
+188.121.41.86 1 1 18363 20140721224730
+188.40.70.144 1 1 18363 20140703224945
+62.219.8.234 1 7 353865 20140703012148
+162.244.33.8 1 1 18363 20140719013228
+209.133.77.165 1 1 18363 20140703092839
+173.49.24.118 2 2 36726 20140724180924
+62.219.8.233 2 2 36726 20140702224454
+96.227.124.38 1 1 18363 20140712120906
+54.225.63.27 1 1 18363 20140707094727
+220.181.108.119 1 1 5436 20140731144354
+220.181.108.109 0 1 3604 
+220.181.108.80 0 2 7764 
+220.181.108.116 1 2 121526 20140731144401
+70.89.137.151 2 40 1762878 20140707171918
+198.178.124.47 2 2 36726 20140724014317
+66.216.165.142 2 40 1762878 20140729035630
+208.54.36.233 0 1 99205 
+192.114.71.13 1 1 18363 20140703001956
+220.181.108.118 0 3 153001 
+220.181.108.111 0 1 37961 
+14.207.19.234 0 1 16543 
+64.202.161.46 2 2 36726 20140702103141
+220.181.108.78 0 1 122998 
+220.181.108.100 0 1 73828 
+220.181.108.75 1 1 18363 20140731144351
+220.181.108.86 0 1 1573 
+107.211.100.9 3 42 2545666 20140731171342
+5.10.104.69 1 1 18363 20140724221913
+87.98.219.54 1 1 18363 20140708214952
+132.188.64.218 3 42 1770852 20140729122731
+188.226.232.205 1 1 18363 20140720031325
+220.181.108.120 1 1 16416 20140731144354
+146.115.148.227 3 42 1770852 20140713215826
+70.208.81.151 1 1 0 20140708152916
+220.181.108.84 0 1 9177 
+174.236.2.86 1 1 18363 20140702055856
+124.77.245.122 0 1 191148 
+220.181.108.114 0 1 51738 
+64.202.161.41 2 2 36726 20140702102958
+54.184.75.198 1 1 18363 20140723160406
+66.31.203.209 3 42 2545666 20140704205443
+173.252.105.112 0 1 36149 
+144.76.62.77 3 42 2535674 20140714072518
+220.181.108.115 0 1 7732 
+76.118.20.128 3 42 1770852 20140728063659
+50.138.170.240 3 42 1770852 20140730044502
+66.117.129.3 2 40 1762878 20140731082626
+50.57.190.50 1 1 18363 20140714150746
+72.54.118.93 3 42 1770852 20140728162000
+98.217.149.149 3 42 1770852 20140702161522
+63.232.147.98 3 42 1770852 20140707094652
+209.133.77.163 1 1 18363 20140731194038
+38.99.82.238 3 29 652503 20140713101750
+73.185.159.138 3 42 1770852 20140730195907
+188.121.41.88 1 1 18363 20140723060142
+54.221.19.88 1 1 18363 20140727151356
+5.9.221.12 2 2 36726 20140709210530
+129.64.197.83 3 41 1769003 20140716063925
+5.56.63.53 1 1 18363 20140720011012
+89.145.108.202 2 2 36726 20140731195426
+71.245.236.30 3 42 1770852 20140702205559
+70.211.65.218 1 7 353865 20140726164138
+66.249.83.72 1 1 18363 20140730081602
+174.252.33.45 1 1 18363 20140729051300
+137.99.239.110 3 42 1770852 20140714141648
+129.64.198.75 3 42 1770852 20140724124912
+220.181.108.122 0 1 6938 
+83.163.101.118 3 42 1770852 20140704065045
+199.80.59.175 1 1 18363 20140707235339
+74.233.14.193 3 42 1770852 20140703161035
+188.121.41.90 1 1 18363 20140715153522
+129.64.206.68 3 42 1770852 20140731161042
+146.115.182.42 3 42 1770852 20140702150717
+108.29.129.64 3 42 1770852 20140718230955
+220.181.108.117 1 1 5436 20140731144401
+192.34.62.233 3 21 664826 20140727085237
+54.211.7.95 1 1 18363 20140728072055
+71.232.34.113 3 42 1770852 20140731185806
+5.10.104.71 1 1 18363 20140723145049
+71.248.175.165 3 42 2545666 20140728073950
+162.220.58.244 1 3 246471 20140725043751
+182.74.89.50 2 37 1752242 20140707084046
+173.76.22.227 3 42 1770852 20140702095011
+192.81.211.143 3 21 664826 20140724142136
+24.233.97.174 2 40 2404305 20140729051305
+68.171.154.4 3 42 1770852 20140724142136
+69.58.178.57 1 1 18363 20140703131339
+54.202.115.183 1 1 18363 20140718153405
+108.49.208.191 3 8 1968650 20140705130311
+192.34.59.57 3 21 664826 20140730122101
+209.133.77.164 1 1 18363 20140731194953
+220.181.108.82 0 2 31537 
+76.204.124.12 3 43 2736814 20140712093843
+129.64.194.239 3 42 1770852 20140731135922
+114.143.196.251 3 42 1770852 20140716063059
+74.104.129.135 3 42 2545666 20140706044616
+220.181.108.113 0 1 1658 
+24.62.125.115 3 42 1770852 20140731140850
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20140702 22 218 9948763 9
+20140703 25 226 11069468 12
+20140704 9 87 4371607 3
+20140705 3 7 1002688 1
+20140706 3 42 2545666 1
+20140707 9 121 5322698 5
+20140708 5 44 1872302 3
+20140709 2 2 36726 1
+20140710 2 2 0 1
+20140711 0 1 16543 0
+20140712 14 104 3123209 4
+20140713 12 104 4093892 4
+20140714 37 239 12178616 6
+20140715 11 133 7086165 5
+20140716 6 83 3539855 2
+20140717 9 87 4361615 3
+20140718 4 43 1789215 2
+20140719 1 1 18363 1
+20140720 2 2 36726 2
+20140721 1 1 18363 1
+20140722 6 84 4316518 2
+20140723 23 107 2372772 7
+20140724 12 108 4261619 6
+20140725 3 5 246471 2
+20140726 4 48 2122868 2
+20140727 4 22 683189 2
+20140728 13 169 7876585 5
+20140729 15 169 7800702 6
+20140730 21 240 11426169 6
+20140731 44 457 20673180 18
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 2
+30s-2mn 2
+2mn-5mn 1
+0s-30s 115
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/ 140 2350464 117 52
+/startup/common-files/fonts/Startup-Icons.woff 59 1465324 1 25
+/startup/flat-ui/fonts/flat-ui-icons-regular.woff 54 371424 0 30
+/startup/flat-ui/fonts/flat-ui-icons-regular.ttf 12 48924 2 6
+/startup/common-files/fonts/Startup-Icons.ttf 12 147744 2 5
+/startup/flat-ui/fonts/lato/lato-light.eot 6 150580 0 0
+/startup/flat-ui/fonts/lato/lato-black.eot 5 123352 0 1
+/startup/flat-ui/fonts/lato/lato-bold.eot 5 128224 0 1
+/startup/flat-ui/fonts/lato/lato-italic.eot 5 119548 0 0
+/startup/flat-ui/fonts/lato/lato-bolditalic.eot 5 121360 0 0
+/startup/flat-ui/fonts/flat-ui-icons-regular.eot 5 22504 0 0
+/startup/flat-ui/fonts/lato/lato-regular.eot 4 92934 0 0
+/startup/common-files/fonts/Startup-Icons.eot 4 49818 0 1
+/startup/flat-ui/fonts/lato/lato-black.woff 1 35048 0 0
+/startup/flat-ui/fonts/lato/lato-light.woff 1 34608 0 1
+/startup/flat-ui/fonts/lato/lato-italic.woff 1 33592 0 0
+/startup/flat-ui/fonts/lato/lato-bolditalic.woff 1 33916 0 0
+/startup/flat-ui/fonts/lato/lato-regular.woff 1 35464 0 0
+/startup/flat-ui/fonts/lato/lato-bold.woff 1 36664 0 0
+END_SIDER

@@ -1,0 +1,81 @@
+<html> 
+<head> 
+	<title>Printer Status</title>
+	<script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+	<script src="printerstatus.js"></script>
+</head>
+<body>
+	<table>
+		<tr>
+			<td><img id="omega" src="red.png" height="42" width="42"></td>
+			<td>Omega</td>
+			<td><button onclick="changeStatus('omega','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('omega','red.png');">Not Working</button></td>
+			<td><input id="omegacomments" type="text" /></td>
+		</tr>
+		<tr>
+			<td><img id="aleph" src="red.png" height="42" width="42"></td>
+			<td>Aleph</td>
+			<td><button onclick="changeStatus('aleph','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('aleph','red.png');">Not Working</button></td>
+			<td><input id="alephcomments" type="text" /></td>
+		</tr>
+		<tr>
+			<td><img id="ultimaker" src="red.png" height="42" width="42"></td>
+			<td>Ultimaker2</td>
+			<td><button onclick="changeStatus('ultimaker','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('ultimaker','red.png');">Not Working</button></td>
+			<td><input id="ultimakercomments" type="text" /></td>
+		</tr>
+		<tr>
+			<td><img id="delta" src="red.png" height="42" width="42"></td>
+			<td>Delta</td>
+			<td><button onclick="changeStatus('delta','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('delta','red.png');">Not Working</button></td>
+			<td><input id="deltacomments" type="text" /></td>
+		</tr>
+		<tr>
+			<td><img id="typea" src="red.png" height="42" width="42"></td>
+			<td>TypeA</td>
+			<td><button onclick="changeStatus('typea','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('typea','red.png');">Not Working</button></td>
+			<td><input id="typeacomments" type="text" /></td>
+		</tr>
+		<tr>
+			<td><img id="rep2x" src="red.png" height="42" width="42"></td>
+			<td>Rep2X</td>
+			<td><button onclick="changeStatus('rep2x','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('rep2x','red.png');">Not Working</button></td>
+			<td><input id="rep2xcomments" type="text" /></td>
+		</tr>
+		<tr>
+			<td><img id="minidelta" src="red.png" height="42" width="42"></td>
+			<td>MiniDelta</td>
+			<td><button onclick="changeStatus('minidelta','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('minidelta','red.png');">Not Working</button></td>
+			<td><input id="minideltacomments" type="text" /></td>
+		</tr>
+		<tr>
+			<td><img id="makergear" src="red.png" height="42" width="42"></td>
+			<td>MakerGear</td>
+			<td><button onclick="changeStatus('makergear','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('makergear','red.png');">Not Working</button></td>
+			<td><input id="makergearcomments" type="text" /></td>
+		</tr>
+		<tr>
+			<td><img id="leapfrog" src="red.png" height="42" width="42"></td>
+			<td>LeapFrog</td>
+			<td><button onclick="changeStatus('leapfrog','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('leapfrog','red.png');">Not Working</button></td>
+			<td><input id="leapfrogcomments" type="text" /></td>
+		</tr>
+		<tr>
+			<td><img id="formlabs" src="red.png" height="42" width="42"></td>
+			<td>Formlabs</td>
+			<td><button onclick="changeStatus('formlabs','green.png');">Working</button></td>
+			<td><button onclick="changeStatus('formlabs','red.png');">Not Working</button></td>
+			<td><input id="formlabscomments" type="text" /></td>
+		</tr>
+	</table>
+</body>
+</html>

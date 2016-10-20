@@ -1,0 +1,931 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201504 will be lost/reset.
+# Last config file used to build this data file was /home/deis3d/tmp/awstats/awstats.deis3d.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2689                
+POS_VISITOR 15925               
+POS_DAY 27899               
+POS_DOMAIN 3610                
+POS_LOGIN 4410                
+POS_ROBOT 4565                
+POS_WORMS 5362                
+POS_EMAILSENDER 5493                
+POS_EMAILRECEIVER 5636                
+POS_SESSION 28777               
+POS_SIDER 28979               
+POS_FILETYPES 5771                
+POS_DOWNLOADS 6066                
+POS_OS 6114                
+POS_BROWSER 6459                
+POS_SCREENSIZE 7815                
+POS_UNKNOWNREFERER 7889                
+POS_UNKNOWNREFERERBROWSER 8676                
+POS_ORIGIN 9211                
+POS_SEREFERRALS 9355                
+POS_PAGEREFS 9532                
+POS_SEARCHWORDS 10466               
+POS_KEYWORDS 10703               
+POS_MISC 2351                
+POS_ERRORS 10838               
+POS_CLUSTER 4266                
+POS_SIDER_404 10958               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150501020646 155 34230 10042534101849
+FirstTime 20150401001038
+LastTime 20150430203223
+LastUpdate 20150501051648 155 0 154 0 0
+TotalVisits 322                 
+TotalUnique 262                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 303                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 144 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 18 280 14283487 72 161 2440089
+1 22 239 13990194 27 83 1734440
+2 9 119 7025084 21 74 1579301
+3 20 146 6882215 23 84 2063485
+4 20 288 18314513 21 80 1665443
+5 10 150 7401469 36 100 2305120
+6 107 510 22132245 133 242 3071973
+7 49 379 19338639 23 110 3162121
+8 32 334 15207433 35 114 4450135
+9 38 539 29139493 19 86 2155878
+10 36 512 27665503 23 48 1273446
+11 57 608 30940996 32 188 6974116
+12 92 753 34298608 25 108 4491232
+13 31 380 19276499 18 87 2109991
+14 88 375 16327511 104 171 2977348
+15 104 1282 23151172 49 137 4811845
+16 41 623 29948299 24 71 2085426
+17 82 594 27292546 51 98 2359222
+18 50 392 19396658 49 124 3436327
+19 67 628 30942263 26 97 2142673
+20 39 482 24595397 20 100 2697532
+21 40 595 28716560 16 60 1431557
+22 29 347 17130066 37 68 1317505
+23 12 199 10809807 24 92 2126622
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 37
+us 871 7821 324704197
+br 53 898 54483874
+cn 26 121 5772188
+it 22 380 23147557
+ru 16 131 5469175
+gb 14 121 6216416
+fr 10 150 7159703
+pk 10 232 15311057
+ph 7 77 4248678
+zz 7 7 128881
+es 6 100 6131110
+mx 6 105 6563116
+de 5 48 2417128
+mt 3 50 3065555
+au 3 51 3109390
+ro 3 46 3054219
+ch 3 49 2313074
+az 3 50 3065555
+in 3 34 2177811
+vn 3 50 3065555
+za 3 50 3065555
+nl 3 50 2356909
+ua 2 2 41005
+kr 2 2 40630
+id 2 17 989790
+pt 1 8 373297
+bd 0 1 150550
+tr 1 32 1604410
+dk 0 1 150550
+sa 0 1 35852
+ie 0 1 35852
+al 1 18 1008656
+ps 1 25 1253076
+af 1 22 1345137
+at 1 1 20315
+eu 1 1 20315
+ca 0 1 110519
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+bot[\s_+:,\.\;\/\\-] 463 15188386 20150430175935 0
+googlebot 388 12189254 20150430194615 0
+spider 307 9033345 20150430210013 0
+php 156 17385725 20150430193348 0
+googlebot\-image 74 365743 20150429023902 0
+bingpreview 58 3363012 20150418112955 0
+google[_+\s]web[_+\s]preview 48 2003854 20150428112557 0
+no_user_agent 47 1246846 20150430200212 0
+slurp 12 204234 20150425221635 0
+robot 12 183798 20150429110832 0
+crawl 12 245037 20150428053305 0
+ruby\/ 5 101950 20150420220828 0
+[\s_+:,\.\;\/\\-]bot 5 289625 20150413093253 0
+ia_archiver 2 24167 20150429182015 0
+curl 2 41380 20150428071658 0
+msnbot\-media 2 170784 20150402160943 0
+netcraft 1 20315 20150408122222 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 25 639631 0 0
+css 1520 68705198 0 0
+png 2780 158838947 0 0
+ttf 76 830376 0 0
+cgi 1 18 0 0
+woff 300 4542552 0 0
+php 184 0 0 0
+html 367 6849329 0 0
+dat 140 1058 0 0
+js 2839 59465808 0 0
+jpg 2192 193753154 0 0
+gif 330 580586 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+linuxandroid 225 13
+linuxredhat 1 1
+winlong 7 7
+macosx6 48 2
+winxp 346 43
+ios_iphone 447 30
+win8 48 3
+macosx9 402 25
+ios_ipad 101 6
+macosx7 142 10
+unix 194 12
+winnt 9 2
+linux 155 16
+win7 3192 241
+macosx 2932 213
+winme 1 1
+macosx4 1 1
+win8.1 2053 420
+Unknown 29 23
+macosx8 421 24
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 67
+firefox28.0 26 2
+msie6.0 10 10
+chrome40.0.2214.115 93 7
+chrome41.0.2272.96 50 3
+chrome34.0.1847.137 13 1
+chrome44.0.2375.0 102 6
+chrome40.0.2214.111 48 3
+chrome39.0.2171.95 4 3
+firefox34.0 49 2
+chrome31.0.1650.63 49 1
+ecatch 2 2
+safari6.1.4 1 1
+msie8.0 32 10
+chrome42.0.2311.90 2750 320
+chrome39.0.2171.65 49 4
+msie7.0 6 6
+firefox23.0 2 2
+chrome41.0.2272.76 145 9
+chrome41.0.2272.89 1 0
+wget 2 2
+safari7.0.5 1 0
+chrome39.0.2171.71 92 6
+wap 3 0
+firefox29.0 26 2
+firefox38.0 1 0
+chrome40.0.2214.114 45 3
+chrome32.0.1700.107 167 10
+chrome36.0.1985.143 1857 110
+firefox33.0 1 1
+mozilla 3 2
+chrome38.0.2125.114 71 4
+firefox14.0.1 1 1
+chrome42.0.2311.135 106 10
+firefox3.6.3 1 1
+safari8.0.3 50 3
+firefox36.0 215 13
+safari 53 4
+safari7.0 150 10
+android 2 0
+firefox6.0.2 15 12
+chrome41.0.2272.101 317 81
+chrome42.0.2311.109 102 6
+chrome10.0.648.204 19 19
+safari8.0 486 32
+msie9.0 17 10
+chrome41.0.2272.102 57 3
+safari7.1.5 51 3
+safari6.2.4 153 9
+firefox27.0 5 5
+Unknown 23 21
+firefox11.0 41 0
+firefox32.0 100 4
+opera12.02 46 1
+safari8.0.5 7 1
+chrome41.0.2272.118 2002 233
+safari7.1.2 31 2
+chrome13.0.782.215 44 4
+chrome41.0.2272.104 248 15
+firefox2.0.0.11 1 1
+safari8.0.4 110 10
+msie11.0 112 18
+chrome35.0.1916.153 54 4
+firefox37.0 427 18
+firefox22.0 1 1
+firefox1.5.0.10 1 1
+firefox6.0 2 2
+chrome39.0.2171.99 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+visionutils/0.2 20150424121118
+Mozilla/5.0_(compatible;_MegaIndex.ru/2.0;__https://www.megaindex.ru/?tab=linkAnalyze) 20150413174442
+panscient.com 20150409011149
+Mozilla/5.0_(compatible)_Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html) 20150404210506
+Hivemind 20150419224437
+Dorado_WAP-Browser/1.0.0 20150430070840
+Mnogosearch-3.1.21 20150420095553
+SEOstats_2.1.0__________https://github.com/eyecatchup/SEOstats 20150427225734
+wscheck.com/1.0.0_(_http://wscheck.com/) 20150427225734
+HTTP-Tiny/0.051 20150414200946
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20150414100653
+ltx71_-_(http://ltx71.com/) 20150401200642
+the_beast 20150413013220
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+visionutils/0.2 20150424121118
+python-requests/2.6.0_CPython/2.7.8_Linux/3.16.0-30-generic 20150425093004
+panscient.com 20150409011149
+Hivemind 20150419224437
+Mnogosearch-3.1.21 20150420095553
+wscheck.com/1.0.0_(_http://wscheck.com/) 20150427225734
+HTTP-Tiny/0.051 20150414200946
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20150414100653
+ltx71_-_(http://ltx71.com/) 20150401200642
+the_beast 20150413013220
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 228 285
+From1 1 1
+From2 41 59
+From3 88 95
+From4 735 10314
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 37 55
+bing 1 1
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 20
+http://best-seo-offer.com/try.php 20 20
+https://www.facebook.com 14 14
+http://buttons-for-your-website.com 12 12
+http://best-seo-solution.com/try.php 12 12
+http://buttons-for-website.com 8 8
+http://3dprint.com/50317/deis3d-3dprintathon-biker-leg/ 4 4
+http://www.weburlopener.com 3 3
+http://www.brandeis.edu/search/index.html 2 2
+http://www.thingiverse.com/Memnarch1113/about 2 2
+http://DEIS3D.COM 1 1
+https://www.linkedin.com 1 1
+http://www.brandeis.edu/now/2015/march/3d-printathon.html 1 1
+http://www.brandeis.edu/search/searchSite.php 1 1
+http://3dprint.com/43590/deis3d-org-printathon/ 1 1
+http://2percentmlscommission.biz 1 8
+http://www.brandeis.edu/now/search-results.html 1 1
+http://l.facebook.com/l.php 1 1
+http://defroy.org 1 1
+http://PRINTATHON.ORG 1 1
+http://deis3d.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 4
+3d+printing+club+sponsor 1
+http+%2f%2fdeis3d.org 1
+gabe+seltzer 1
+3d+printing+club 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 8
+club 2
+printing 2
+3d 2
+gabe 1
+http 1
+%2f%2fdeis3d.org 1
+seltzer 1
+sponsor 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 108 1510310
+301 63 14950
+404 651 815430
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 115
+/System/Plugins/elfinder/elfinder.html 1 -
+/cgi-bin/test-cgi.pl 1 -
+/sitemap.xml 2 -
+/robots.txt 263 http://deis3d.org/robots.txt
+/repository/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/w/elfinder-2.0-rc1/elfinder.html 1 -
+/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/vendor/mihaildev/yii2-elfinder/assets/elfinder.html 1 -
+/user 1 -
+/admin.php 3 -
+/assets/components/elfinder/elfinder.html 1 -
+/files/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/cgi-bin/test.sh 1 -
+/ax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/chat/upload.php 1 -
+/scripts/elfinder/elfinder.php.html 1 -
+/printathon/robots.txt 10 -
+/wordpress/wp-login.php 2 -
+/js/lib/elfinder/elfinder.html 1 -
+/printathon/startup/flat-ui/bootstrap/css/bootstrap.css.map 1 http://deis3d.org/printathon/
+/media/js/plugins/elfinder2.0/elfinder.html 1 -
+/bdfiles/elfinder.html 1 -
+/finder/elfinder.html 1 -
+/admin/wp-login.php 2 -
+/wp-admin/wp-login.php 2 -
+/js/elfinder/elfinder.html 1 -
+/resources/html_editor/ckfinder/elfinder.html 1 -
+/ckeditor/elfinder/elfinder.html 1 -
+/sites/all/modules/elfinder/elfinder.php.html 1 -
+/elfinder/elfinder.html 1 -
+/en/ckfinder/elfinder.html 1 -
+/blog/elfinder.html 1 -
+/edit/elfinder/elfinder.html 1 -
+/upload/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/4dm1n/assets/js/ckfinder/elfinder.html 1 -
+/FILE/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/cms/wp-login.php 2 -
+/startup/flat-ui/bootstrap/css/bootstrap.css.map 11 http://deis3d.org/
+/scripts/elfinder/elfinder.html 1 -
+/assets/lib/elfinder/elfinder.html 1 -
+/modules/tadtools/ckeditor/elFinder/elfinder.html 1 -
+/printathon/startup/common-files/js/ 1 -
+/forum/chat/upload.php 1 -
+/fileshare/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/administrator/ 2 -
+/blog/wp-login.php 2 -
+/js/plugins/elfinder2.0/elfinder.html 1 -
+/admin/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/public/scripts/elfinder/elfinder.php.html 1 -
+/lib/elfinder/elfinder.html 1 -
+/a 2 -
+/ajax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/home/assets/js/ckfinder/elfinder.html 1 -
+/wp-login.php 5 -
+/printerstatus/updatecomments.php 184 http://deis3d.org/printerstatus/
+/elfinder.html 1 -
+/cron.sh 1 -
+/site/wp-login.php 2 -
+/assets/lib/elfinder-2.0-rc1/elfinder.html 1 -
+/cgi-sys/test-cgi 1 -
+/forums/chat/upload.php 1 -
+/filemanager/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/docs/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/filemanager/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/sites/all/libraries/elfinder/elfinder.html 1 -
+/apple-touch-icon.png 2 -
+/projects/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/wp-login/ 2 -
+/sites/all/libraries/elfinder/elfinder.php.html 1 -
+/html/lib/elfinder/elfinder.php.html 1 -
+/assets/elfinder/elfinder.html 1 -
+/printathon/startup/flat-ui/js/bootstrap.min.js 49 http://deis3d.org/printathon/
+/admin/assets/elfinder/elfinder.html 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/img/ 1 -
+/wp-admin/admin-ajax.php 2 -
+/clients/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/office/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/cgi-bin/test 1 -
+/components/elfinder/files/elfinder.html 1 -
+/printerstatus/updatestatus.php 3 http://deis3d.org/printerstatus/
+/feng/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/project/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/xplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/wp/wp-login.php 2 -
+/customers/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/js/elfinder/elfinder.php.html 1 -
+/section/wp-login.php 2 -
+/cgi-bin-sdb/printenv 1 -
+/printathon/wp-content/plugins/website-contact-form-with-file-upload/lib/wide-image/VERSION 1 -
+/administrator/index.php 3 -
+/explorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/drupal/sites/all/libraries/elfinder/elfinder.php.html 1 -
+/fengoffice/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/admin/elfinder/elfinder.php.html 1 -
+/4_demo/js/lib/elfinder/elfinder.html 1 -
+/elfinder/elfinder.php.html 1 -
+/share/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/file_server/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ajaxplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/public/elfinder/elfinder.html 1 -
+/module-assets/admin/elfinder/elfinder.html 1 -
+/cgi-bin/test/test.cgi 1 -
+/filemanager/elfinder.html 1 -
+/ftp/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/var/ckeditor/elfinder/elfinder.html 1 -
+/finder/elfinder.php.html 1 -
+/sites/all/modules/elfinder/elfinder.html 1 -
+/themes/admin/js/plugins/elfinder/elfinder.html 1 -
+/components/elfinder/elfinder.html 1 -
+/core/ckeditor/plugins/elfinder/elfinder.html 1 -
+/lib/elfinder/elfinder.php.html 1 -
+/administrator/lib/elfinder/elfinder.php.html 1 -
+/elfinder.php.html 1 -
+/intranet/plugins/editor.zoho/class.ZohoEditor.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 303
+129.64.18.216 76 172 5322060 20150423191503
+129.64.197.101 66 69 9545 20150413185915
+129.64.197.36 66 69 85 20150401183847
+129.64.222.92 64 984 7679945 20150419152946
+129.64.197.76 42 42 0 20150427173622
+129.64.197.154 24 26 60 20150414192400
+129.64.197.46 22 25 30222 20150427123258
+24.218.219.84 21 24 9545 20150411115555
+129.64.198.37 21 24 9546 20150429155304
+198.252.44.9 19 19 390485 20150430162141
+24.6.61.252 18 323 14387189 20150426193434
+46.242.14.244 10 32 1103343 20150420030735
+74.123.180.1 9 56 2475336 20150402064542
+97.117.133.172 9 143 6730453 20150416081438
+81.151.123.220 9 56 2475336 20150407135930
+32.210.138.220 9 153 10758982 20150427114055
+129.64.18.242 9 152 6989869 20150428214932
+64.74.215.113 8 8 0 20150428084649
+160.39.140.131 6 98 4304587 20150413134419
+50.5.131.139 6 103 5655098 20150425195926
+50.93.249.212 6 53 3126419 20150428020356
+149.130.129.215 6 92 4075301 20150406111425
+129.64.208.189 6 93 4851964 20150416215326
+146.115.148.227 6 98 4304587 20150415211812
+24.63.237.201 6 94 4120985 20150426222007
+66.249.80.61 0 1 218524 
+66.249.83.198 2 20 1736749 20150429061101
+129.64.213.148 3 45 1998316 20150423171854
+201.13.155.129 3 50 3065555 20150417091512
+98.189.119.243 3 50 2300733 20150402142528
+73.47.52.82 3 50 3075547 20150401144327
+149.130.154.113 2 31 1945913 20150422102751
+88.203.58.32 3 50 3065555 20150405122416
+220.181.108.159 1 1 20315 20150403010926
+66.249.81.158 0 3 655572 
+85.113.58.36 2 2 40549 20150408005449
+32.214.29.34 1 1 20234 20150405181941
+129.64.202.44 3 50 2300733 20150419082033
+46.118.119.63 1 1 20690 20150421123756
+72.78.17.160 0 1 150550 
+4.30.125.50 3 54 2410478 20150421135803
+129.64.154.112 1 7 355989 20150401113839
+173.49.24.119 1 1 20690 20150420095553
+191.205.56.63 1 31 1584813 20150413093104
+129.64.214.221 4 51 1796732 20150418221911
+129.64.75.230 1 6 20315 20150417084230
+129.64.201.184 4 46 2744228 20150429162048
+189.142.244.147 3 50 3065555 20150414113819
+129.64.16.227 4 88 2024088 20150408082318
+216.163.188.224 1 1 20234 20150406152636
+202.46.50.180 1 1 0 20150423211351
+129.64.213.166 3 45 1998316 20150411184910
+46.140.126.126 2 48 2292759 20150416062432
+66.249.81.154 0 1 218524 
+123.125.71.56 1 1 20315 20150404144309
+123.125.71.107 1 1 20690 20150425141151
+66.249.88.218 0 1 218524 
+65.92.48.163 0 1 110519 
+103.26.55.74 0 1 150550 
+189.223.10.187 3 51 3109390 20150427181624
+66.249.82.179 0 1 218524 
+66.249.81.162 0 6 1311144 
+177.17.228.194 3 50 3065555 20150408154839
+54.144.209.139 1 1 20690 20150419224437
+169.139.8.18 4 52 2360984 20150430055757
+129.64.198.107 3 51 2344568 20150429162032
+183.192.97.205 3 50 3065555 20150405032158
+61.0.168.39 1 14 964106 20150410023902
+5.9.151.67 2 2 40630 20150413174442
+129.64.208.166 3 50 3075547 20150410125711
+188.227.221.240 3 50 3065555 20150414104355
+217.203.70.87 3 50 3065555 20150402090951
+220.181.108.145 1 1 20315 20150407094429
+129.64.212.194 1 21 64150 20150427160343
+187.123.234.100 3 51 3109390 20150425071254
+188.140.104.110 1 8 373297 20150419122916
+71.187.255.193 4 4 81260 20150401074827
+172.56.38.88 0 1 150550 
+109.235.38.162 2 49 2336594 20150428020932
+216.163.188.232 1 1 20315 20150414201327
+162.209.102.100 1 1 20690 20150427090814
+83.34.138.216 3 50 3065555 20150405141309
+113.203.237.166 2 51 3217484 20150422015121
+24.91.192.88 3 50 2300733 20150402194006
+66.220.159.118 0 1 218524 
+129.64.219.225 3 51 3119382 20150419222721
+98.204.227.49 2 47 2290910 20150407145243
+191.32.184.132 0 1 119755 
+201.79.105.190 1 13 1494972 20150405071129
+73.189.175.42 3 43 1776417 20150427170640
+130.25.85.210 1 27 1557167 20150413113105
+217.24.254.69 1 18 1008656 20150402125956
+17.142.151.243 1 1 20690 20150421195238
+129.64.213.36 3 47 2002005 20150414170500
+108.0.92.225 0 1 150550 
+101.175.193.174 3 51 3109390 20150423015317
+186.244.112.212 0 3 132472 
+209.6.175.242 3 48 2003854 20150422102521
+172.56.27.28 3 50 3075547 20150405163432
+39.48.11.242 3 82 5907501 20150428041353
+87.184.99.226 3 46 2376498 20150402172737
+104.155.30.198 1 1 20690 20150424081958
+50.247.208.9 3 50 2300733 20150401043409
+62.98.45.244 3 50 3065555 20150417110246
+100.38.151.146 3 48 2003854 20150427115626
+129.64.231.226 1 1 20315 20150408094447
+189.124.27.5 3 50 3065555 20150410175028
+66.249.83.210 1 22 2173226 20150429113130
+107.77.70.92 3 50 3075547 20150403003152
+49.147.98.145 3 25 1027137 20150422065749
+189.74.172.39 1 19 1261258 20150402104727
+129.64.239.108 3 47 2002005 20150424124729
+129.64.198.43 3 46 2289397 20150417061013
+152.253.229.7 3 49 2947875 20150412190228
+95.150.120.26 3 50 3065555 20150418115621
+129.64.203.112 3 48 2003854 20150425001759
+45.56.99.21 1 1 20234 20150403045055
+212.33.102.168 1 25 1253076 20150408063049
+129.64.75.207 1 1 20690 20150423122155
+129.64.51.246 3 50 2342719 20150429104130
+186.244.118.29 0 5 312564 
+192.241.157.23 1 13 299916 20150422201018
+146.115.167.86 3 50 2300733 20150413175205
+198.199.66.173 1 13 299541 20150414171352
+140.207.154.14 3 48 2003854 20150420191429
+93.144.47.117 3 51 3109390 20150427091715
+129.64.214.203 3 48 2003854 20150424124158
+65.215.21.210 3 48 2003854 20150421072343
+149.125.68.90 3 51 2344568 20150426132752
+67.221.74.138 3 48 2003854 20150428112016
+93.44.114.14 3 51 3109390 20150423012603
+179.64.197.38 1 22 1017934 20150416200023
+172.56.5.48 2 49 2336594 20150425115241
+179.108.159.37 1 36 2678890 20150413111300
+61.94.173.199 0 1 150550 
+188.226.232.60 1 1 20315 20150414100653
+151.32.227.194 3 50 3065555 20150412133811
+77.107.87.46 1 13 647393 20150406032836
+54.84.179.12 1 1 20315 20150412142240
+213.47.217.101 1 1 20315 20150404172953
+208.163.166.135 0 1 150550 
+197.157.220.50 3 50 3065555 20150412153648
+76.115.188.169 3 50 2300733 20150406000257
+206.124.211.137 0 1 150550 
+50.204.132.195 4 52 2380032 20150424155408
+129.64.64.220 3 51 2344568 20150424065723
+66.249.93.138 0 4 874096 
+130.64.96.101 1 1 20315 20150401135937
+129.64.197.171 3 50 2300733 20150415214846
+88.235.237.174 1 32 1604410 20150411130507
+129.64.231.96 3 50 2300733 20150410102102
+199.87.224.105 3 50 2300733 20150406101744
+123.125.68.8 0 1 150550 
+129.64.197.231 1 9 64150 20150419193958
+74.71.15.50 3 50 3075547 20150413072000
+211.110.181.55 2 2 40630 20150414200946
+123.125.71.99 1 1 20315 20150407094131
+177.42.52.72 3 50 3065555 20150407041315
+129.64.237.98 3 50 2342719 20150429141407
+74.2.183.254 3 50 2342719 20150421101849
+191.32.125.253 3 50 3065555 20150416162529
+123.125.71.25 1 1 20315 20150403010629
+85.113.55.152 2 2 40549 20150410001116
+172.56.29.210 3 51 3119382 20150428085023
+129.64.238.50 3 45 1998316 20150424185636
+129.64.196.56 4 51 3075547 20150414085354
+179.192.83.216 0 10 372128 
+129.64.200.36 3 50 3075547 20150402155944
+128.177.113.106 0 1 35852 
+107.181.190.103 1 1 20690 20150420212448
+192.241.144.225 1 13 299541 20150402011600
+64.233.172.252 0 1 218524 
+96.227.124.37 1 1 20315 20150407141812
+66.249.93.130 0 6 1311144 
+220.181.108.99 1 1 20690 20150425141510
+129.64.196.239 3 47 2002005 20150422213915
+193.201.224.18 1 1 20315 20150403114857
+186.224.103.161 3 50 3065555 20150401091859
+151.249.73.118 0 1 7817 
+73.38.176.232 3 50 3075547 20150408175143
+37.135.41.69 3 50 3065555 20150413105654
+188.114.145.156 0 1 150550 
+176.10.104.227 1 1 20315 20150406082629
+172.56.0.250 1 1 20315 20150404161028
+180.76.4.25 1 1 20315 20150417155334
+207.86.135.21 2 48 2292759 20150416222041
+151.32.86.50 3 50 3065555 20150402101344
+129.64.196.115 3 35 1671216 20150419200033
+129.64.15.228 3 50 2300733 20150413090622
+129.64.193.230 6 94 4120985 20150429162029
+104.155.44.36 2 2 41380 20150429092723
+177.204.63.221 3 50 3065555 20150408204510
+202.78.232.2 1 8 435314 20150417110933
+45.56.101.145 1 1 20234 20150403045057
+185.66.250.80 1 1 20315 20150411171438
+72.69.157.151 3 48 2003854 20150405122212
+216.38.216.197 4 44 1042560 20150413204535
+12.227.116.196 3 50 3264846 20150402211152
+114.120.195.75 0 1 35852 
+84.106.216.100 1 1 20315 20150416225042
+173.48.145.253 3 48 2003854 20150402035154
+220.181.108.105 1 1 20690 20150420125018
+201.78.220.79 1 12 628562 20150405071217
+129.64.236.120 3 50 2848110 20150417090607
+71.187.219.210 4 4 81260 20150409011149
+220.181.38.210 0 1 183700 
+189.72.6.254 3 50 3065555 20150405184104
+129.64.214.74 6 98 4304587 20150410173858
+54.185.60.1 1 1 20690 20150426034703
+180.76.4.106 1 1 20315 20150413114831
+199.217.119.4 6 6 123015 20150427225734
+198.199.66.231 1 13 299916 20150430203223
+119.157.213.75 3 50 3075547 20150410014534
+129.64.73.38 3 50 2342719 20150421161412
+125.167.103.169 1 12 747221 20150413205133
+191.248.67.84 0 1 119755 
+191.181.3.116 3 51 3109390 20150424040532
+54.209.60.63 2 2 6954 20150427181614
+104.237.147.206 1 1 20234 20150401201302
+177.42.129.237 3 50 3065555 20150404181405
+180.76.4.52 1 1 20315 20150407134257
+112.198.83.199 4 51 3070991 20150405191952
+69.58.178.57 1 1 20315 20150403092155
+189.82.123.26 1 2 111951 20150405071217
+99.153.167.164 3 50 3075547 20150415201626
+129.64.230.118 3 50 3075547 20150417095911
+129.64.208.120 3 51 3119382 20150420174001
+188.255.20.173 1 46 1972010 20150401145548
+73.10.34.204 6 95 4005859 20150413203447
+50.28.128.164 3 48 2003854 20150413094321
+27.116.56.223 1 22 1345137 20150422185945
+209.2.231.19 1 7 355989 20150412102418
+110.93.14.68 1 1 20315 20150408160210
+69.43.111.6 2 48 2292759 20150411090044
+220.181.108.161 1 1 20315 20150404144640
+70.39.185.112 0 1 150550 
+208.91.113.22 1 1 20315 20150403021106
+66.249.93.134 0 6 1311144 
+49.144.4.71 0 1 150550 
+129.64.198.153 4 51 2336197 20150417124218
+123.125.71.14 1 1 20690 20150420124620
+220.181.108.150 1 1 20315 20150401040818
+129.64.34.138 6 54 2448672 20150430060821
+46.218.244.190 2 45 2282389 20150413052812
+113.190.60.165 3 50 3065555 20150407214827
+177.94.246.19 3 50 3065555 20150412201041
+201.68.134.158 3 50 3065555 20150407153723
+113.203.237.162 2 49 3110525 20150421230100
+177.79.14.80 0 1 119755 
+12.70.67.2 2 49 2336594 20150423121620
+129.64.208.130 4 54 3310765 20150416202343
+182.68.110.215 1 11 627841 20150425011844
+129.64.200.118 4 52 3140072 20150422191522
+123.125.71.71 1 1 20315 20150401040439
+129.64.75.244 1 47 2267923 20150415112626
+177.135.250.235 0 1 119755 
+195.154.241.109 1 1 20315 20150411105702
+198.211.106.56 1 13 299541 20150409083207
+71.202.182.90 2 49 2336594 20150426201124
+91.121.100.66 1 1 20315 20150403083011
+52.4.217.95 1 1 20315 20150401200642
+129.64.208.36 3 50 3075547 20150415105230
+176.195.69.216 1 49 2312724 20150425163902
+129.64.228.56 3 47 2002005 20150424122202
+123.125.68.48 0 1 966 
+129.64.214.116 5 57 2321048 20150415194448
+66.249.83.204 2 23 1773394 20150429061102
+84.23.107.169 0 1 35852 
+160.39.141.176 3 47 2002005 20150419125151
+98.210.165.9 3 48 2003854 20150424120952
+177.44.133.252 1 13 864901 20150405185331
+129.64.15.196 3 50 2300733 20150406111646
+68.110.1.239 3 49 3073698 20150416231736
+31.13.100.112 0 1 35852 
+71.162.119.76 3 51 2302582 20150413204904
+180.76.4.222 1 1 20690 20150423014338
+121.41.111.107 1 1 18 20150413013220
+114.120.195.79 0 2 35852 
+129.64.206.40 3 50 3075547 20150402021605
+103.19.255.179 0 1 150550 
+138.128.2.235 3 3 46577 20150408171049
+83.167.33.212 6 103 4836684 20150409070353
+177.156.16.145 1 1 20690 20150428041431
+179.218.5.18 3 49 2298884 20150410172153
+129.64.229.236 3 48 2003854 20150424124448
+216.163.188.235 3 3 61614 20150422163855
+180.76.4.215 1 1 20315 20150405055436
+129.64.198.91 4 51 2336197 20150415165742
+129.64.213.108 3 57 2244820 20150428190527
+151.45.187.62 3 51 3109390 20150425065214
+95.77.227.14 3 46 3054219 20150415044757
+177.12.92.4 2 26 1284950 20150416065251
+187.138.209.153 0 1 150550 
+54.198.111.132 1 1 20690 20150423100642
+201.172.64.98 0 3 237621 
+137.99.108.54 3 47 2002005 20150422210440
+23.99.137.116 2 2 40549 20150425093004
+100.2.154.188 3 51 2344568 20150424092629
+180.76.4.249 1 1 20315 20150408134327
+129.64.231.193 3 48 2003854 20150425211548
+129.64.83.231 1 1 20315 20150417063328
+69.113.200.112 6 100 4601466 20150411124856
+50.163.60.33 2 48 2292759 20150408150313
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150401 92 380 15638675 17
+20150402 45 624 32576898 17
+20150403 11 59 3388455 9
+20150404 8 59 3973252 6
+20150405 28 411 24641016 13
+20150406 28 429 19562248 11
+20150407 28 263 14423080 12
+20150408 25 371 17539727 12
+20150409 13 121 5475094 5
+20150410 20 318 17975435 8
+20150411 33 204 8703756 8
+20150412 14 210 13108442 6
+20150413 109 742 33191644 22
+20150414 50 351 17419815 12
+20150415 33 459 23344522 12
+20150416 33 490 26945779 12
+20150417 23 314 17327170 10
+20150418 9 104 5053467 5
+20150419 81 1239 20050091 10
+20150420 21 136 6330029 8
+20150421 24 330 17509464 11
+20150422 97 459 19072285 13
+20150423 22 306 16728596 11
+20150424 37 558 27163942 14
+20150425 27 418 21818542 13
+20150426 16 253 12220558 6
+20150427 84 306 12056943 12
+20150428 23 345 18257091 11
+20150429 47 373 17544527 12
+20150430 12 122 5166114 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 4
+0s-30s 299
+2mn-5mn 4
+30s-2mn 12
+15mn-30mn 1
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 46
+/ 301 5685858 252 124
+/printerstatus/updatecomments.php 171 0 1 5
+/startup/flat-ui/fonts/flat-ui-icons-regular.woff 100 581664 1 68
+/startup/common-files/fonts/Startup-Icons.woff 98 2433928 1 19
+/printathon/ 56 1133104 53 16
+/printathon/startup/common-files/fonts/Startup-Icons.woff 38 943768 0 0
+/startup/flat-ui/fonts/flat-ui-icons-regular.ttf 38 206568 1 33
+/startup/common-files/fonts/Startup-Icons.ttf 38 623808 1 6
+/printathon/startup/flat-ui/fonts/flat-ui-icons-regular.woff 38 266304 0 32
+/startup/flat-ui/fonts/lato/lato-regular.woff 23 212784 0 6
+/printerstatus/updatestatus.php 13 0 3 3
+/printerstatus/ 9 24339 8 2
+/printerstatus/ultimaker.dat 7 52 0 0
+/printerstatus/minidelta.dat 7 46 0 0
+/printerstatus/rep2xcomments.dat 7 46 0 0
+/printerstatus/formlabs.dat 7 39 0 0
+/printerstatus/leapfrogcomments.dat 7 66 0 1
+/printerstatus/makergearcomments.dat 7 37 0 0
+/printerstatus/alephcomments.dat 7 0 0 0
+/printerstatus/aleph.dat 7 54 0 0
+/printerstatus/omega.dat 7 41 0 0
+/printerstatus/typea.dat 7 54 0 0
+/printerstatus/rep2x.dat 7 39 0 0
+/printerstatus/makergear.dat 7 43 0 0
+/printerstatus/typeacomments.dat 7 80 0 0
+/startup/flat-ui/fonts/lato/lato-light.eot 3 90348 0 0
+/startup/flat-ui/fonts/lato/lato-regular.eot 3 92934 0 1
+/startup/flat-ui/fonts/lato/lato-black.woff 1 35048 0 0
+/startup/flat-ui/fonts/lato/lato-black.eot 3 92514 0 0
+/startup/common-files/fonts/Startup-Icons.eot 3 49818 0 2
+/startup/flat-ui/fonts/lato/lato-italic.eot 3 89661 0 0
+/startup/flat-ui/fonts/lato/lato-bolditalic.eot 3 91020 0 0
+/printathon/schedule/ 1 6028 0 1
+/printerstatus/minideltacomments.dat 7 116 0 0
+/printathon/startup/flat-ui/fonts/lato/lato-regular.woff 1 35464 0 0
+/printerstatus/formlabscomments.dat 7 97 0 2
+/cgi-sys/entropysearch.cgi 1 18 1 1
+/printerstatus/omegacomments.dat 7 40 0 0
+/printerstatus/delta.dat 7 50 0 0
+/startup/flat-ui/fonts/lato/lato-italic.woff 1 33592 0 0
+/startup/flat-ui/fonts/lato/lato-bold.eot 3 96168 0 0
+/printerstatus/leapfrog.dat 7 43 0 0
+/startup/flat-ui/bootstrap/fonts/glyphicons-halflings-regular.eot 1 20290 0 0
+/printerstatus/deltacomments.dat 7 79 0 0
+/startup/flat-ui/fonts/flat-ui-icons-regular.eot 3 16878 0 0
+/printerstatus/ultimakercomments.dat 7 36 0 0
+END_SIDER
