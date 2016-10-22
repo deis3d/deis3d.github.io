@@ -1858,6 +1858,15 @@
 					background: #7fb7d2;
 				}
 
+				.icon.circle.fa-envelope {
+					background: #a53a3c;
+					color: #fff;
+				}
+
+					.icon.circle.fa-envelope:hover {
+						background: #b35052;
+					}
+
 			.icon.circle.fa-facebook {
 				background: #7490c3;
 				color: #fff;
